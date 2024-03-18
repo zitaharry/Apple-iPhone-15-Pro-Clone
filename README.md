@@ -34,13 +34,10 @@ Make sure you have the following installed on your machine:
 Git
 Node.js
 npm (Node Package Manager)
-Cloning the Repository
 
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
-Installation
+# Installation
 
-Install the project dependencies using npm:
+# Install the project dependencies using npm:
 
 npm install
 Running the Project
