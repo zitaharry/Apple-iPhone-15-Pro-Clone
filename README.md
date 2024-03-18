@@ -31,16 +31,14 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-Git
-Node.js
-npm (Node Package Manager)
+	1.Git
+	2. Node.js
+	3. npm (Node Package Manager)
 
 # Installation
 
 # Install the project dependencies using npm:
-
-npm install
-Running the Project
-
-npm run dev
+	npm install
+# Running the Project
+	npm run dev
 Open http://localhost:5173 in your browser to view the project.
